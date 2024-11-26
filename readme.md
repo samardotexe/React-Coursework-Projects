@@ -1,1 +1,1 @@
-A React coursework projects
+A React Coursework Project
